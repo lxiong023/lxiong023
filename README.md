@@ -4,7 +4,8 @@
 
 <img src="https://github.com/lxiong023/lxiong023/assets/141647142/176c921d-344d-4c5d-afac-263b89961d72" height="15%" width="15%" alt="osTicket logo"/>
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lxiong023/Config-AD.git)
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <img src="https://i.imgur.com/KzJbWRS.png" height="10%" width="10%" alt="osTicket logo"/>
