@@ -6,8 +6,8 @@
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lxiong023/Config-AD.git)
 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/lxiong023/Azure-Network-Protocols.git)
+  
 <img src="https://i.imgur.com/KzJbWRS.png" height="10%" width="10%" alt="osTicket logo"/>
 
   - [osTicket: Prerequisites and Installation](https://github.com/lxiong023/osticket-prereqs)
