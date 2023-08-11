@@ -12,5 +12,6 @@
 
   - [osTicket: Prerequisites and Installation](https://github.com/lxiong023/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/lxiong023/Ticket-Lifecycle.git)
 
+https://github.com/lxiong023/Ticket-Lifecycle.git
